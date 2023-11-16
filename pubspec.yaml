@@ -14,39 +14,23 @@ dependencies:
 
   cupertino_icons: ^1.0.2
 
-  #state_management
   flutter_bloc: ^8.1.2
-
-  #comparing dart objects
   equatable: ^2.0.5
-
-  #service_locator
   get_it: ^7.6.0
-
-  #date_format
   intl: ^0.18.1
-
-  #Database
   floor: ^1.4.2
-
-  #make_API_request
   retrofit: ^3.0.1
-
-  #Hooks
   flutter_hooks: ^0.18.3
-
-  #Cached_images
   cached_network_image: ^3.2.0
-
 
 dev_dependencies:
 
   flutter_test:
     sdk: flutter
-  retrofit_generator: ^3.0.0+1
-  floor_generator: ^1.2.0
-  build_runner: ^2.1.2
   flutter_lints: ^2.0.0
+  build_runner: ^2.4.6
+  floor_generator: ^1.4.2
+  retrofit_generator: ^4.2.0
 
 flutter:
 
